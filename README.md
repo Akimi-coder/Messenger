@@ -1,1 +1,1 @@
-# Kyrsach2.0
+MVVM messenger application on wpf.
